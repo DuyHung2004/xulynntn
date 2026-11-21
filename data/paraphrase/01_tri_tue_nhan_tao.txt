@@ -1,0 +1,1 @@
+AI là ngành thuộc công nghệ thông tin nhằm tạo ra những cỗ máy làm được các việc vốn cần đến sự thông minh của con người. Trong đó, việc để máy tự rút kinh nghiệm từ các ví dụ, thay vì được dặn dò từng bước, gọi là học máy. Còn học sâu dựa trên các mạng gồm rất nhiều lớp nơ-ron để tự tìm ra những dấu hiệu tinh vi trong thông tin đầu vào.

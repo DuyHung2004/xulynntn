@@ -1,0 +1,1 @@
+Giữ cho thông tin và hệ thống không bị người lạ xâm nhập, làm lộ hay phá hỏng chính là mục tiêu của an ninh dữ liệu. Những việc nền tảng gồm đặt mật khẩu khó đoán, bật thêm bước xác minh thứ hai và luôn nâng cấp phần mềm. Kẻ xấu hay giả danh qua email hoặc tin nhắn để lừa người dùng. Lưu bản dự phòng đều đặn sẽ giúp ta đỡ mất mát nếu dữ liệu bị khoá để đòi tiền chuộc.

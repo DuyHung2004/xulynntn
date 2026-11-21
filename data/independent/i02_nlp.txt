@@ -1,0 +1,1 @@
+Máy tính vốn chỉ hiểu con số, còn con người giao tiếp bằng câu chữ. Môn học này dạy cách chuyển câu chữ thành dạng mà thuật toán có thể xử lý. Với tiếng Việt, một điều thú vị là khoảng trắng không phải lúc nào cũng ngăn cách các từ. Em dự định làm đồ án về phân loại cảm xúc trong bình luận của khách hàng.

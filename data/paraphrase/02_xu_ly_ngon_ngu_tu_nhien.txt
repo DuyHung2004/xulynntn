@@ -1,0 +1,1 @@
+Đây là mảng nghiên cứu nằm giữa ngôn ngữ học và tin học, với đích đến là để máy móc có thể hiểu cũng như tạo ra lời nói và chữ viết như người. Đối với tiếng Việt, việc nhận diện ranh giới giữa các từ là công đoạn chuẩn bị không thể bỏ qua, bởi một từ thường do nhiều tiếng ghép lại. Dịch tự động, gán nhãn loại văn bản hay trả lời câu hỏi đều thuộc nhóm bài toán quen thuộc.

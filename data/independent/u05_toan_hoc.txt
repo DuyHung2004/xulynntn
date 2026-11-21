@@ -1,0 +1,1 @@
+Số nguyên tố là số tự nhiên lớn hơn một chỉ chia hết cho một và chính nó. Hai, ba, năm và bảy là những số nguyên tố đầu tiên. Từ xa xưa, các nhà toán học đã chứng minh rằng có vô hạn số nguyên tố. Ngày nay, tính chất của chúng được ứng dụng trong mật mã học.

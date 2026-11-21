@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+pandas
+streamlit
+pyvi            # tách từ tiếng Việt (có thể thay bằng: underthesea)
+# Tuỳ chọn, để bật độ giống ngữ nghĩa:
+# sentence-transformers

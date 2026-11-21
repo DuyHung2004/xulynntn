@@ -1,0 +1,1 @@
+Những năm gần đây, người ta nhắc đến AI ở khắp nơi, từ điện thoại cho tới nhà máy. Điểm chung của các ứng dụng là máy móc rút ra quy luật từ lượng lớn ví dụ có sẵn rồi dùng quy luật đó để dự đoán. Chẳng hạn, một phần mềm xem hàng triệu bức ảnh mèo sẽ dần nhận ra mèo trong ảnh mới. Điều tôi băn khoăn là ai sẽ chịu trách nhiệm khi hệ thống đưa ra quyết định sai.
